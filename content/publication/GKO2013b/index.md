@@ -8,7 +8,7 @@ authors:
 - admin
 
 date: "2013-11-29T00:00:00Z"
-doi: ""
+doi: "10.1080/00343404.2013.839869"
 featured: false
 image:
   caption: ''

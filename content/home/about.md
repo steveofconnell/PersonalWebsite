@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = ""
@@ -46,8 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 <div style="width: 70%; font-size: 1.5em;">
-<br><br><br><br>
+<br><br><br>
 <font size="+3">Assistant Professor of Economics</font><br>
 <font size="+2">Emory University</font><br><br><br>
 <font size="+3">Research Affiliate</font><br>

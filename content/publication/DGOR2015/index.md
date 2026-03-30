@@ -9,7 +9,7 @@ authors:
 - Esteban Rossi-Hansberg
 
 date: "2015-01-30T00:00:00Z"
-doi: ""
+doi: "10.1111/jors.12100"
 featured: false
 image:
   caption: ''
@@ -19,7 +19,7 @@ projects: []
 publication: '*Journal of Regional Science*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2015-01-30T00:00:00Z"
 #slides: example
 summary: What is the relationship between industrial structure and urbanization in India over the past several decades?

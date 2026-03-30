@@ -5,19 +5,19 @@ abstract: A one-third quota rule for women in local political leadership seats i
 authors:
 - admin
 
-date: "2018-10-31T00:00:00Z"
-doi: ""
+date: "2020-03-01T00:00:00Z"
+doi: "10.1162/rest_a_00802"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Review of Economics and Statistics (forthcoming)*'
+publication: '*Review of Economics and Statistics*'
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2018-10-31T00:00:00Z"
+- "2"
+publishDate: "2020-03-01T00:00:00Z"
 #slides: example
 summary: Do political reservations for women generate candidates that climb the political career ladder?
 tags:

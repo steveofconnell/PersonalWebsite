@@ -1,0 +1,158 @@
+# Stephen D. O'Connell
+
+> Associate Professor of Economics at Emory University. Research spans labor economics and development economics, with a focus on entrepreneurship, forced displacement, gender, and social policy design.
+
+## About
+
+Stephen D. O'Connell is an Associate Professor of Economics at Emory University. He holds a B.A. from Boston College, an M.Phil. and Ph.D. from the City University of New York Graduate Center, and completed a postdoctoral fellowship at MIT. In early 2025, he served as Visiting Senior Research Associate at the Becker-Friedman Institute at the University of Chicago.
+
+He is affiliated with the JPAL/IPA Displaced Livelihoods Initiative, the Households in Conflict Network (HiCN), and IZA Institute of Labor Economics. His research combines randomized controlled trials, quasi-experimental methods, and qualitative fieldwork to study entrepreneurship, forced displacement, gender, and social policy design.
+
+He teaches undergraduate, masters, and doctoral courses in econometrics, labor economics, and development economics at Emory, and directs Emory Economics' undergraduate research and Honors Programs.
+
+## Research areas
+
+- Labor economics
+- Development economics
+- Entrepreneurship
+- Forced displacement and refugees
+- Gender economics
+- Social policy design and targeting
+- Political economy
+- Econometrics and experimental methods
+
+## Applied expertise
+
+- Labor market analysis and wage/earnings modeling
+- Statistical analysis of employment discrimination and workplace discrimination
+- Economic damages assessment and mitigation analysis
+- Program evaluation and causal inference
+- Poverty targeting and humanitarian aid design
+- Gender equity analysis
+- Workforce development and job training evaluation
+- Litigation consulting and expert economic analysis
+
+## Research themes
+
+O'Connell's research investigates how institutions, policies, and social structures shape economic opportunities and outcomes, particularly for women, refugees, and the poor. A central thread is gender and political economy: multiple papers study how political quotas and reservations for women in India affect female entrepreneurship, educational investment, labor force participation, and the pipeline of women into higher political office. Complementary work in the U.S. context examines gender gaps in political career progression and how gender composition and leadership affect women's influence in team settings. Together, these studies document how institutional design can either facilitate or impede women's economic and political advancement.
+
+A second major theme is the design and targeting of social protection programs in humanitarian contexts. Several papers focus on refugees in Lebanon, studying the effectiveness of unconditional cash transfers, the design of econometric targeting models for humanitarian aid, the role of geographic poverty targeting rules in determining program impacts, and gender differences in the adequacy of food assistance programs. These studies combine randomized controlled trials with administrative data to evaluate how aid programs can be better designed and targeted to reach those most in need.
+
+A third strand addresses the structural determinants of economic development, including the spatial patterns of entrepreneurship and urbanization in India, the effects of electricity shortages on manufacturing, the impact of health facility construction on health outcomes in Ethiopia, and the role of employer input in improving public job training programs in Brazil. Across all of these areas, O'Connell's work emphasizes credible causal identification through experimental and quasi-experimental methods, and draws policy-relevant conclusions about how governments and organizations can improve the design of programs and institutions.
+
+## Selected publications
+
+### Schneider and O'Connell (2025)
+Title: Gender differences in the adequacy of poverty-targeted food assistance programs
+Journal: World Development, 2025
+Abstract: Social assistance programs often provide a per-person benefit to targeted beneficiaries. Such uniform transfer values do not account for variation in structural deprivations faced by households. In this study, we assess the degree to which a food voucher program for refugees in Lebanon adequately meets the food needs of female- and male-headed households. Using a natural experiment in which some households received an unconditional cash transfer in addition to the food voucher, we analyze spending on food, food consumption, and food coping behaviors that results from the additional cash transfer. We use a regression discontinuity design that estimates program effects among a sample of households that have been assessed as equally needy by implementing agencies. The food voucher program increases food purchases, consumption, and dietary diversity, and reduces food coping strategies. Households who receive the additional cash transfer continue spending more on food and continue to increase food consumption. These latter effects are concentrated in female-headed households, indicating that the food voucher benefit level fell short in providing for these families' nutritional needs despite the fact that they were assessed as equally impoverished by a proxy means test used to target the program. These results imply that social assistance programs concerned with addressing a specific type of deprivation could take into account structural differences in the incidence of that deprivation when setting benefit levels.
+
+### Brown, Mansour, O'Connell, and Reeves (2025)
+Title: Gender Differences in Political Career Progression
+Journal: Journal of Economic Behavior and Organization, 2025
+Abstract: This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Using a regression discontinuity design, we find that narrowly winning a state legislature election doubles the probability that a female politician will later compete for a higher-level legislative seat compared to narrowly elected male politicians. While the gender gap in the effect of local political experience on winning a higher-level election also favors women, it is not precisely estimated. The gender difference in the effect of winning a state legislature seat is larger when serving in positions that closely resemble the responsibilities and workload of higher-level positions. We conclude that the pathway from local to higher-level political offices functions at least as effectively for women as for men. Therefore, supporting the recruitment, funding, and campaigning of women in local elections can be an effective strategy to increase their representation at the highest levels of government.
+
+### Karpowitz, O'Connell, Preece, and Stoddard (2024)
+Title: Strength in Numbers? Gender Composition, Leadership, and Women's Influence in Teams
+Journal: Journal of Political Economy, 2024
+Abstract: Policies that increase women's representation often intend to provide women with influence over processes and decisions of the organization. This paper studies the effect of gender composition and leadership on women's influence in two field experiments. Our first study finds that male-majority teams accord disproportionately less influence to women and are less likely to choose women to represent the team externally. We then replicate this finding in a new context and with a larger sample. To investigate the relationship between formal leadership and women's influence and authority, the second study also varied the gender of an assigned team leader. We find that a female leader substantially increases women's influence, even in male-majority teams. With a model of discriminatory voting, we show that either increasing the share of women or assigning a female leader reduces the rate at which individual teammates discriminate against women by more than 50 percent. These conditions both increase the influence of women and improve women's experience in work teams by creating an institutional environment that reduces the expression of discriminatory behavior at the individual level.
+
+### Altindag and O'Connell (2023)
+Title: The short-lived effects of unconditional cash transfers to refugees
+Journal: Journal of Development Economics, 2023
+Abstract: We study two year-long unconditional cash-based assistance programs for Syrian refugees in Lebanon, and show that they improve consumption, child well-being, food security, and reduce livelihood coping. Despite high transfer values, we find no evidence of lasting effects at six months after either program ends. Households spend transfers on basic needs and take children out of work and re-enroll them in school. Beneficiaries increase cash savings and their stock of durable goods, but liquidate and spend these assets during or soon after the beneficiary period. The results are similar for longer assistance periods and across transfer modalities.
+
+### Brown, Mansour, and O'Connell (2022)
+Title: Does local female political representation empower women to run for higher office? Evidence from state and national legislatures in India
+Journal: World Bank Economic Review, 2022
+Abstract: Does increasing the number of women in career stages that precede high-level positions affect female representation at the top of the career ladder? State legislature elections narrowly won by female candidates in India are exploited to examine the effect of expanding the pipeline of women in local politics on subsequent female representation and success in national legislature elections. For each additional state legislature election won by a woman, there is a 34 percent increase in the number of female candidates contesting in the subsequent national election, and a 2.6 percentage-point increase in the average vote share won per female candidate. This relationship is driven by new female politicians and not by the progression of female state legislators nor by continued candidacy of previous female candidates for the national legislature.
+
+### McCrain and O'Connell (2022)
+Title: Experience, institutions, and candidate emergence: The political career returns to state legislative service
+Journal: Political Science Research and Methods, 2022
+Abstract: More than half of the current members of the U.S. Congress served in their state legislature prior to holding federal office. We quantify the relationship between individuals' state legislative service and career progression to Congress over the period of 1967 to 2018. Serving in the state legislature more than doubles an individual's probability of eventually contesting a Congressional seat relative to a similar candidate who lost in a comparable election; it also doubles the individual politician's probability of eventually winning a Congressional seat. State legislatures thus create national politicians out of otherwise marginal political entrants. We then show that the effect of state legislative service on career progression is larger in more professionalized legislatures, highlighting the role of institutions in facilitating political career progression. Our results hold important implications for representation and accountability, and confirm that prevailing institutions can affect political selection via career progression.
+
+### Altindag, O'Connell, Sasmaz, Balcioglu, Cadoni, Jerneck, and Foong (2021)
+Title: Targeting humanitarian aid using administrative data: model design and validation
+Journal: Journal of Development Economics, 2021
+Abstract: We develop and assess the performance of an econometric targeting model for a large scale humanitarian aid program providing unconditional cash and food assistance to refugees in Lebanon. We use regularized linear regression to derive a prediction model for household expenditure based on demographic and background characteristics from administrative data that are routinely collected by humanitarian agencies. Standard metrics of prediction accuracy suggest this approach compares favorably to the commonly used "scorecard" Proxy Means Test, which requires a survey of the entire target population. We confirm these results through a blind validation test performed on a random sample collected after the model derivation.
+
+### Croke, Mengistu, O'Connell, and Tafere (2020)
+Title: The impact of a health facility construction campaign on health service utilisation and outcomes: analysis of spatially linked survey and facility location data in Ethiopia
+Journal: British Medical Journal Global Health, 2020
+Abstract: Access to health facilities in many low-income and middle-income countries remains low, with a strong association between individuals' distance to facilities and health outcomes. Yet plausibly causal estimates of the effects of facility construction programmes are rare. Starting in 2004, more than 2800 government health facilities were built in Ethiopia. This study estimates the impact of this programme on maternal health service utilisation and birth outcomes.
+
+### O'Connell (2020)
+Title: Can quotas increase the supply of candidates for higher-level positions? Evidence from local government in India
+Journal: Review of Economics and Statistics, 2020
+Abstract: A one-third quota rule for women in local political leadership seats in India increases the number of female candidates who later contest seats in state and national legislatures. This arises from the candidacy of beneficiaries who gained political experience due to the quotas and career politicians who continue contesting in longer-exposed areas. The policy accounts for a substantial portion of the increase in female candidates for high office since the mid-1990's. Women have a higher probability of a top finish when running on major party tickets or contesting in areas that overlap with their local constituency.
+
+### O'Connell (2018)
+Title: Political Inclusion and Educational Investment: Estimates from a national policy experiment in India
+Journal: Journal of Development Economics, 2018
+Abstract: I examine whether the "role model effect" of female politicians on adolescent girls' school enrollment comes only from female representation in the lowest level of local government. To do this, I exploit variation in the implementation of seat quotas for women applied to a three-tiered local governance structure in India. Enrollment effects were substantially larger than those previously estimated for exposure to female leaders in the lowest tier of local government. The policy response is larger among girls in poorer households and those with less-educated women in the household, and was commensurate with reductions in idle time and employment in household enterprises. There is no evidence of additional school infrastructure, nor a reallocation of schooling resources. Effect magnitudes imply that more than two thirds of the net effect of the policy comes from female politicians serving in reserved positions other than the village council chairperson seat.
+
+### Joyce, Remler, Jaeger, Altindag, O'Connell, and Crockett (2017)
+Title: On Measuring and Reducing Selection Bias with a Quasi-Doubly Randomized Preference Trial
+Journal: Journal of Policy Analysis and Management, 2017
+Abstract: Randomized experiments provide unbiased estimates of treatment effects, but are costly and time consuming. We demonstrate how a randomized experiment can be leveraged to measure selection bias by conducting a subsequent observational study that is identical in every way except that subjects choose their treatment -- a quasi-doubly randomized preference trial (quasi-DRPT). Researchers first strive to think of and measure all possible confounders and then determine how well these confounders as controls can reduce or eliminate selection bias. We use a quasi-DRPT to study the effect of class time on student performance in an undergraduate introductory microeconomics course at a large public university, illustrating its required design elements - experimental and choice arms conducted in the same setting with identical interventions and measurements, and all confounders measured prospectively to treatment assignment or choice. Quasi-DRPTs augment randomized experiments in real-world settings where participants choose their treatments.
+
+### Allcott, Collard-Wexler, and O'Connell (2016)
+Title: How Do Electricity Shortages Affect Industry? Evidence from India
+Journal: American Economic Review, 2016
+Abstract: We estimate the effects of electricity shortages on Indian manufacturers, instrumenting with supply shifts from hydroelectric power availability. We estimate that India's average reported level of shortages reduces the average plant's revenues and producer surplus by 5 to 10 percent, but average productivity losses are significantly smaller because most inputs can be stored during outages. Shortages distort the plant size distribution, as there are significant economies of scale in generator costs and shortages more severely affect plants without generators. Simulations show that offering interruptible retail electricity contracts could substantially reduce the impacts of shortages.
+
+### Desmet, Ghani, O'Connell, and Rossi-Hansberg (2015)
+Title: The Spatial Development of India
+Journal: Journal of Regional Science, 2015
+Abstract: This paper studies the recent spatial development of India. Services, and to a lesser extent manufacturing, are increasingly concentrating in high-density clusters. This stands in contrast with the United States, where in the last decades services have tended to grow fastest in medium-density locations, such as Silicon Valley. India's experience is not common to all fast-growing developing economies. The spatial growth pattern of China looks more similar to that in the United States than to that of India. Our findings suggest that certain frictions are keeping medium-density places in India from growing faster.
+
+### Joyce, Jaeger, Altindag, O'Connell, and Crockett (2015)
+Title: Does Classroom Time Matter?
+Journal: Economics of Education Review, 2015
+Abstract: Little experimental evidence exists on the causal impact of class time on academic performance when students have access to extensive course material online. We randomized 725 college students into traditional twice-per-week and compressed once-per-week lecture formats in introductory microeconomics. Students in the traditional format scored 3.2 out of 100 points higher (0.21 standard deviations) on the midterm than those in the compressed format but a statistically insignificant 1.6 points higher (0.11 standard deviations) on the final. There were no differences in non-cognitive outcomes. Students in the middle tercile of predicted test scores performed worst in the compressed format relative to those in the traditional format but there was little difference in test scores by format in the top tercile of predicted performance. While the compressed format offers clear savings in classroom space and professors' time, these savings come at some cost to student performance.
+
+### Ghani, Kerr, and O'Connell (2014)
+Title: Political Reservations and Women's Entrepreneurship in India
+Journal: Journal of Development Economics, 2014
+Abstract: We quantify the link between the timing of state-level implementations of political reservations for women in India with the role of women in India's manufacturing sector. While overall employment of women in manufacturing does not increase after the reforms, we find significant evidence that more women-owned establishments were created in the unorganized/informal sector. These new establishments were concentrated in industries where women entrepreneurs have been traditionally active and the entry was mainly found among household-based establishments. We measure and discuss the extent to which this heightened entrepreneurship is due to channels like greater financial access or heightened inspiration for women entrepreneurs.
+
+### Ghani, Kerr, and O'Connell (2013a)
+Title: Local Industrial Structures and Female Entrepreneurship in India
+Journal: Journal of Economic Geography, 2013
+Abstract: We analyze the spatial determinants of female entrepreneurship in India in the manufacturing and services sectors. We focus on the presence of incumbent female-owned businesses and their role in promoting higher subsequent female entrepreneurship relative to male entrepreneurship. We find evidence of agglomeration economies in both sectors, where higher female ownership among incumbent businesses within a district-industry predicts that a greater share of subsequent entrepreneurs will be female. Moreover, higher female ownership of local businesses in related industries (e.g. those sharing similar labor needs and industries related via input-output markets) predict greater relative female entry rates even after controlling for the focal district-industry's conditions. The core patterns hold when using local industrial conditions in 1994 to instrument for incumbent conditions in 2000 and 2005. The results highlight that the traits of business owners in incumbent industrial structures influence the types of entrepreneurs supported.
+
+### Ghani, Kerr, and O'Connell (2013b)
+Title: Spatial Determinants of Entrepreneurship in India
+Journal: Regional Studies (special issue), 2013
+Abstract: The spatial determinants of entrepreneurship in India in the manufacturing and services sectors are analysed. Among general district traits, the quality of the physical infrastructure and workforce education are the strongest predictors of entry, with labour laws and household banking access also playing important roles. Extensive evidence is also found of agglomeration economies among manufacturing industries. In particular, supportive incumbent industrial structures for input and output markets are strongly linked to higher establishment entry rates. In comparison with the United States, regional conditions in India play a stronger relative role for the spatial patterns of entrepreneurship compared with incumbent industry locations.
+
+## Working papers
+
+### Altindag, O'Connell, and Achour (2025)
+Title: Geographic poverty targeting in social protection programs: Evidence from a nationwide policy experiment
+Abstract: We study how prioritization rules for a large-scale cash transfer program affect who is targeted, program effectiveness, and beneficiary satisfaction. In a nationwide policy experiment among Syrian refugees in Lebanon, we randomized households into different area-level allocation rules based on monetary poverty, food insecurity, food consumption, and multidimensional deprivation. We find that these rules select demographically distinct groups, but generate little difference in program impacts on key welfare outcomes. In contrast, there is substantial geographic heterogeneity in program effectiveness across districts, suggesting that local conditions, rather than targeting rules, are the primary drivers of variation in outcomes. Administrative data and household characteristics explain little of this location-based heterogeneity. Qualitative interviews highlight market-specific constraints, such as transport costs and debt burdens, that mediate program impacts. Our findings suggest that the poverty target used for budget allocation are crucial in determining who benefits from the transfers but may be less important for determining overall program effectiveness in a given locality.
+
+### O'Connell and Mation (2020)
+Title: Tell us what you need: Matching public job training to local skill demand with employers' input
+Abstract: Governments use job training programs to address unemployment and to improve the match between skill supply and skill demand. Targeting such programs with input from local employers has long been hypothesized as a way to improve their effectiveness. We test this hypothesis using a unique situation in Brazil in which two national skill training programs ran in parallel, with one taking local employer input in choosing course offerings while the other retained a traditional, government-led structure. The employer-informed program nearly doubled the short-term effect on trainees' employment and earnings relative to the traditional program. The differential effectiveness of the employer-informed program is not attributable to differences in course or student composition across programs. Our findings provide evidence that limited, structured input from the private sector can improve the alignment between skills trained and skill demand to increase the employment and earnings of the underemployed.
+
+### Mani and O'Connell (2019)
+Title: Can political empowerment increase economic participation? Reservations, public works, and female labor force participation in India
+Abstract: This study examines whether political empowerment of women affects their economic participation. In the context of a mandated political representation reform for women in India, we find that the length of exposure to women politicians affects overall female labor force participation. These effects arise through direct and indirect channels -- political representation of women directly affects amount of work assigned to women under the recent national public works program, the Mahatma Gandhi National Rural Employment Guarantee Scheme, as well as their participation in small-scale businesses. Increases in these activities are offset by reductions in agricultural work and are seen across both high- and low-SES households. Greater physical safety may be one channel through which this occurs -- we find greater geographic mobility among low-SES women, as measured by the likelihood of working outside the home. The findings suggest that women's participation in politics could be a useful policy tool to increase both the supply of and the demand for labor market opportunities for women, potentially helping to stem India's declining female labor force participation rate.
+
+## Affiliations
+
+- Emory University, Department of Economics (Associate Professor, 2022-present; Assistant Professor, 2018-2022)
+- Becker-Friedman Institute, University of Chicago (Visiting Senior Research Associate, 2025)
+- JPAL/IPA Displaced Livelihoods Initiative (Invited Researcher, 2023-present)
+- Households in Conflict Network, HiCN (Affiliate, 2020-present)
+- IZA Institute of Labor Economics (Research Affiliate, 2015-present)
+
+## Links
+
+- Website: https://www.stephenoconnell.org/
+- ORCID: https://orcid.org/0000-0002-2549-2000
+- Google Scholar: https://scholar.google.fr/citations?hl=en&pli=1&user=VPhtAPsAAAAJ
+- GitHub: https://github.com/steveofconnell
+- Twitter: https://twitter.com/steveoconnell1

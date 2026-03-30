@@ -5,12 +5,12 @@ abstract: Little experimental evidence exists on the causal impact of class time
 authors: [
  T. Joyce,
  D. Jaeger,
-"[R. Onur Altindag](http://onuraltindag.info/)",
+Onur Altindag,
  admin,
  S. Crockett
 ]
 date: "2015-06-30T00:00:00Z"
-doi: ""
+doi: "10.1016/j.econedurev.2015.02.007"
 featured: false
 image:
   caption: ''

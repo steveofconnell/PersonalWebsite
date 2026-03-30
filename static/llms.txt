@@ -1,0 +1,75 @@
+# Stephen D. O'Connell
+
+> Associate Professor of Economics at Emory University. Research spans labor economics and development economics, with a focus on entrepreneurship, forced displacement, gender, and social policy design.
+
+## About
+
+Stephen D. O'Connell is an Associate Professor of Economics at Emory University. He holds a B.A. from Boston College, an M.Phil. and Ph.D. from the City University of New York Graduate Center, and completed a postdoctoral fellowship at MIT. In early 2025, he served as Visiting Senior Research Associate at the Becker-Friedman Institute at the University of Chicago.
+
+He is affiliated with the JPAL/IPA Displaced Livelihoods Initiative, the Households in Conflict Network (HiCN), and IZA Institute of Labor Economics. His research combines randomized controlled trials, quasi-experimental methods, and qualitative fieldwork to study entrepreneurship, forced displacement, gender, and social policy design.
+
+He teaches undergraduate, masters, and doctoral courses in econometrics, labor economics, and development economics at Emory, and directs Emory Economics' undergraduate research and Honors Programs.
+
+## Research areas
+
+- Labor economics
+- Development economics
+- Entrepreneurship
+- Forced displacement and refugees
+- Gender economics
+- Social policy design and targeting
+- Political economy
+- Econometrics and experimental methods
+
+## Applied expertise
+
+- Labor market analysis and wage/earnings modeling
+- Statistical analysis of employment discrimination and workplace discrimination
+- Economic damages assessment and mitigation analysis
+- Program evaluation and causal inference
+- Poverty targeting and humanitarian aid design
+- Gender equity analysis
+- Workforce development and job training evaluation
+- Litigation consulting and expert economic analysis
+
+## Selected publications
+
+- Karpowitz, O'Connell, Preece, and Stoddard. "Strength in Numbers? Gender Composition, Leadership, and Women's Influence in Teams." Journal of Political Economy, 2024.
+- Brown, Mansour, and O'Connell. "Gender Differences in Political Career Progression." Journal of Economic Behavior and Organization, 2025.
+- Schneider and O'Connell. "Gender differences in the adequacy of poverty-targeted food assistance programs." World Development, 2025.
+- Altindag and O'Connell. "The short-lived effects of unconditional cash transfers to refugees." Journal of Development Economics, 2023.
+- Brown, Mansour, and O'Connell. "Does local female political representation empower women to run for higher office? Evidence from state and national legislatures in India." World Bank Economic Review, 2022.
+- McCrain and O'Connell. "Experience, institutions, and candidate emergence: The political career returns to state legislative service." Political Science Research and Methods, 2022.
+- Altindag, O'Connell, Sasmaz, Balcioglu, Cadoni, Jerneck, and Foong. "Targeting humanitarian aid using administrative data: model design and validation." Journal of Development Economics, 2021.
+- O'Connell. "Can quotas increase the supply of candidates for higher-level positions? Evidence from local government in India." Review of Economics and Statistics, 2020.
+- Croke, Mengistu, O'Connell, and Tafere. "The impact of a health facility construction campaign on health service utilisation and outcomes: analysis of spatially linked survey and facility location data in Ethiopia." BMJ Global Health, 2020.
+- O'Connell. "Political Inclusion and Educational Investment: Estimates from a national policy experiment in India." Journal of Development Economics, 2018.
+- Allcott, Collard-Wexler, and O'Connell. "How Do Electricity Shortages Affect Industry? Evidence from India." American Economic Review, 2016.
+- Joyce, Remler, Jaeger, Altindag, O'Connell, and Crockett. "On Measuring and Reducing Selection Bias with a Quasi-Doubly Randomized Preference Trial." Journal of Policy Analysis and Management, 2017.
+- Joyce, Jaeger, Altindag, O'Connell, and Crockett. "Does Classroom Time Matter?" Economics of Education Review, 2015.
+- Desmet, Ghani, O'Connell, and Rossi-Hansberg. "The Spatial Development of India." Journal of Regional Science, 2015.
+- Ghani, Kerr, and O'Connell. "Political Reservations and Women's Entrepreneurship in India." Journal of Development Economics, 2014.
+- Ghani, Kerr, and O'Connell. "Local Industrial Structures and Female Entrepreneurship in India." Journal of Economic Geography, 2013.
+- Ghani, Kerr, and O'Connell. "Spatial Determinants of Entrepreneurship in India." Regional Studies, 2013.
+
+## Working papers
+
+- Altindag, O'Connell, and Achour. "Geographic poverty targeting in social protection programs: Evidence from a nationwide policy experiment." 2025.
+- O'Connell and Mation. "Tell us what you need: Matching public job training to local skill demand with employers' input."
+- Mani and O'Connell. "Can political empowerment increase economic participation? Reservations, public works, and female labor force participation in India."
+
+## Affiliations
+
+- Emory University, Department of Economics (Associate Professor, 2022-present; Assistant Professor, 2018-2022)
+- Becker-Friedman Institute, University of Chicago (Visiting Senior Research Associate, 2025)
+- JPAL/IPA Displaced Livelihoods Initiative (Invited Researcher, 2023-present)
+- Households in Conflict Network, HiCN (Affiliate, 2020-present)
+- IZA Institute of Labor Economics (Research Affiliate, 2015-present)
+
+## Links
+
+- Website: https://www.stephenoconnell.org/
+- ORCID: https://orcid.org/0000-0002-2549-2000
+- Google Scholar: https://scholar.google.fr/citations?hl=en&pli=1&user=VPhtAPsAAAAJ
+- GitHub: https://github.com/steveofconnell
+- Twitter: https://twitter.com/steveoconnell1

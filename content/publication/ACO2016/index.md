@@ -7,7 +7,7 @@ authors:
 - admin
 
 date: "2016-03-30T00:00:00Z"
-doi: ""
+doi: "10.1257/aer.20140389"
 featured: false
 image:
   caption: 'Image credit: [**OConnell**](featured.jpg)'

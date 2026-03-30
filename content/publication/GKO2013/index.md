@@ -7,7 +7,7 @@ authors:
 - admin
 
 date: "2013-11-30T00:00:00Z"
-doi: ""
+doi: "10.1093/jeg/lbt004"
 featured: false
 image:
   caption: ''

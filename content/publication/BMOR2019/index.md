@@ -1,25 +1,25 @@
 ---
-abstract: We establish the existence of gender differences in career progression to leadership positions among U.S. politicians and study their underlying causes. Using a close elections strategy, we find that an additional state legislature term increases the probability of ever running for Congress by twice as much for men as it does for women and the effect on winning a Congressional race is five times larger for men than women.  These gaps emerge early in legislators' careers, widen over time, and are seen alongside a higher propensity of female politicians to continue running for the state legislature. The gap cannot be attributed to  differences in experience, career-family tradeoffs, election or constituency characteristics, nor preferences for part-time public service careers.  <br> <a href="https://www.iza.org/publications/dp/12569/gender-differences-in-political-career-progression-evidence-from-us-elections">IZA Discussion Paper No. 12569 (August 2019)</a>
+abstract: This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Using a regression discontinuity design, we find that narrowly winning a state legislature election doubles the probability that a female politician will later compete for a higher-level legislative seat compared to narrowly elected male politicians. While the gender gap in the effect of local political experience on winning a higher-level election also favors women, it is not precisely estimated. The gender difference in the effect of winning a state legislature seat is larger when serving in positions that closely resemble the responsibilities and workload of higher-level positions. We conclude that the pathway from local to higher-level political offices functions at least as effectively for women as for men. Therefore, supporting the recruitment, funding, and campaigning of women in local elections can be an effective strategy to increase their representation at the highest levels of government.</a>
 authors: [
-"[Ryan Brown](https://clas.ucdenver.edu/ryan-brown/)",
-"[Hani Mansour](http://hani-mansour.com/)",
+Ryan Brown,
+Hani Mansour,
 admin,
-"[James Reeves](https://lsa.umich.edu/econ/people/phd-students/jmreeves.html)"
+James Reeves
 ]
 
-date: "2020-02-04T00:00:00Z"
-doi: ""
+date: "2025-01-15T00:00:00Z"
+doi: "10.1016/j.jebo.2024.106806"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Working paper*'
+publication: '*Journal of Economic Behavior and Organization*'
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2020-02-04T00:00:00Z"
+- "2"
+publishDate: "2025-01-15T00:00:00Z"
 #slides: example
 summary: Does the primary career pipeline to Congress function as well for women as it does for men?
 tags:
@@ -37,4 +37,7 @@ url_poster: ""
 url_project: ""
 url_source: ""
 url_video: ""
+links:
+- name: IZA Working Paper
+  url: 'https://docs.iza.org/dp16625.pdf'
 ---

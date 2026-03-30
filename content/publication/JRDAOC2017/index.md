@@ -5,13 +5,13 @@ authors: [
  T. Joyce,
  D. Remler,
  D. Jaeger,
-"[R. Onur Altindag](http://onuraltindag.info/)",
+Onur Altindag,
  admin,
  S. Crockett
 ]
 
 date: "2017-06-30T00:00:00Z"
-doi: ""
+doi: "10.1002/pam.21976"
 featured: false
 image:
   caption: ''

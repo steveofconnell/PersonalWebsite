@@ -20,12 +20,12 @@ publishDate: "2019-12-20T00:00:00Z"
 #slides: example
 summary: Are there spillovers from political empowerment policy to the economic sphere?
 tags:
-- Skills
-- Job training
-- Technical training
-- Labor demand
-- Unemployment
-- Brazil
+- gender
+- political reservations
+- labor force participation
+- empowerment
+- India
+- public works
 
 title: "Can political empowerment increase economic participation?  Reservations, public works, and female labor force participation in India"
 url_code: ""

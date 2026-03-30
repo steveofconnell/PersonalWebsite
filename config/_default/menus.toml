@@ -13,20 +13,25 @@
   url = "#publications"
   weight = 25
 
-[[main]]
-  name = "Other Projects"
-  url = "#projects"
-  weight = 35
+# [[main]]
+#  name = "Other Projects"
+#  url = "#projects"
+#  weight = 35
 
 
-[[main]]
-  name = "Teaching"
-  url = "#courses"
-  weight = 40
+# [[main]]
+#  name = "Teaching"
+#  url = "#courses"
+#  weight = 40
 
 [[main]]
-  name = "Professional Stats"
-  url = "#refstats"
+  name = "Bio"
+  url = "extended-bio/"
+  weight = 50
+
+[[main]]
+  name = "Student research FAQ"
+  url = "files/StudentResearch.pdf"
   weight = 50
   
 [[main]]
@@ -39,4 +44,4 @@
  [[main]]
     name = "CV"
     url = "files/OConnell_CV.pdf"
-    weight = 55
+    weight = 45
