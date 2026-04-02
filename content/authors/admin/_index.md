@@ -5,7 +5,7 @@ bio: "Labor and development economist studying work, productivity, identity, and
 role: Associate Professor of Economics
 name: Stephen D. O'Connell
 organizations:
-- name: Associate Professor of Economics, Emory University
+- name: Emory University
 - name: Invited Researcher, JPAL/IPA Displaced Livelihoods Initiative
 - name: Affiliate, Households in Conflict Network (HiCN)
 - name: Research Affiliate, IZA Institute of Labor Economics
