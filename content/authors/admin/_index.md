@@ -2,21 +2,6 @@
 authors:
 - admin
 bio: "Labor and development economist studying work, productivity, identity, and inequality."
-education:
-  courses:
-  - course: Postdoctoral Fellow, Economics
-    institution: Massachusetts Institute of Technology
-  - course: PhD, Economics
-    institution: City University of New York, Graduate Center
-  - course: BA, Economics
-    institution: Boston College
-interests:
-- Labor Economics
-- Development Economics
-- Entrepreneurship
-- Forced Displacement
-- Gender
-- Social Policy Design
 role: Associate Professor of Economics
 name: Stephen D. O'Connell
 organizations:
