@@ -33,6 +33,11 @@
   name = "Student research FAQ"
   url = "files/StudentResearch.pdf"
   weight = 50
+
+[[main]]
+  name = "Graduate advising"
+  url = "files/OConnell_GradAdvising.pdf"
+  weight = 52
   
 [[main]]
   name = "Contact"
