@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: "I study how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how firms recover from shocks."
+bio: "I study how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how firms and people recover from shocks."
 role: Associate Professor of Economics
 name: Stephen D. O'Connell
 organizations:
@@ -34,5 +34,5 @@ user_groups:
 
 
 <br>
-I study how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how firms recover from shocks. My projects focus on topics of entrepreneurship, forced displacement, gender, and social policy design (<a href="files/OConnellResearchStatement.pdf">Research summary</a>). I teach undergraduate, masters, and doctoral courses in econometrics, labor economics, and development economics, and I actively advise graduate students writing dissertations in these areas.
+I study how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how firms and people recover from shocks. My projects focus on topics of entrepreneurship, forced displacement, gender, and social policy design (<a href="files/OConnellResearchStatement.pdf">Research summary</a>). I teach undergraduate, masters, and doctoral courses in econometrics, labor economics, and development economics, and I actively advise graduate students writing dissertations in these areas.
 
