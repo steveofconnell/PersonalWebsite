@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: "Labor and development economist studying work, productivity, identity, and inequality."
+bio: "Labor and development economist studying how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how people and firms recover from shocks."
 role: Associate Professor of Economics
 name: Stephen D. O'Connell
 organizations:
@@ -34,5 +34,5 @@ user_groups:
 
 
 <br>
-I am a labor and development economist studying work, productivity, identity, and inequality. My projects focus on topics of entrepreneurship, forced displacement, gender, and social policy design (<a href="files/OConnellResearchStatement.pdf">Research summary</a>). I teach undergraduate, masters, and doctoral courses in econometrics, labor economics, and development economics, and I actively advise graduate students writing dissertations in these areas.
+I am a labor and development economist studying how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how people and firms recover from shocks. My projects focus on topics of entrepreneurship, forced displacement, gender, and social policy design (<a href="files/OConnellResearchStatement.pdf">Research summary</a>). I teach undergraduate, masters, and doctoral courses in econometrics, labor economics, and development economics, and I actively advise graduate students writing dissertations in these areas.
 
