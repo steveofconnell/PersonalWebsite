@@ -1,4 +1,46 @@
 User-agent: *
 Allow: /
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: GPTBot
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: ChatGPT-User
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: Google-Extended
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: anthropic-ai
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: ClaudeBot
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: CCBot
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: PerplexityBot
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: Bytespider
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: Applebot-Extended
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
+
+User-agent: meta-externalagent
+Disallow: /project/farmcrisisbook/
+Disallow: /files/OConnell_FarmCrisisRealignment.pdf
 
 Sitemap: https://www.stephenoconnell.org/sitemap.xml
