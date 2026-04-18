@@ -6,3 +6,22 @@ public/
 resources/
 .hugo_build.lock
 .DS_Store
+
+# Claude Code memory & workspace
+.s-workspace/
+MEMORY.md
+
+# LaTeX build artifacts (source .tex files stay tracked)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.xdv

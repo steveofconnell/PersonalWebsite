@@ -1,0 +1,148 @@
+\documentclass[10pt, letter]{article}
+
+
+\usepackage[colorlinks=true,urlcolor=blue, citecolor = blue]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{pdfpages}
+
+\setlength{\textwidth}{18.2cm}%
+\setlength{\oddsidemargin}{-10mm}%
+\setlength{\evensidemargin}{7mm}%
+\setlength{\textheight}{22cm} %
+\setlength{\topmargin}{-0.5cm}%
+\usepackage{import}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{makecell}
+
+
+\usepackage[utf8]{inputenc}
+\pagenumbering{arabic}
+
+\parskip 0.2cm
+
+
+\let\footnote=\endnote
+\renewcommand{\baselinestretch}{1.2}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\pagestyle{plain}
+\newcommand{\notocsection}[1]{%
+    \refstepcounter{section}%
+    \section*{\thesection \quad #1}}%
+
+
+\usepackage{advdate}
+\date{\AdvanceDate[-1]\today}  % Go back one day
+
+
+\usepackage[
+backend=biber,
+style=authortitle,
+maxnames=4
+]{biblatex}
+
+\DeclareCiteCommand{\citetitle}
+  {\boolfalse{citetracker}%
+   \boolfalse{pagetracker}%
+   \usebibmacro{prenote}}
+  {\ifciteindex
+     {\indexfield{indextitle}}
+     {}%
+   \printtext[bibhyperref]{\printfield[citetitle]{labeltitle}}
+   (\textbf{\printfield{journaltitle}\setunit{\space}\printfield{year}})}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\citeshorttitleonly}
+  {\boolfalse{citetracker}%
+   \boolfalse{pagetracker}%
+   \usebibmacro{prenote}}
+  {\ifciteindex
+     {\indexfield{indextitle}}
+     {}%
+   \printtext[bibhyperref]{``\printfield{note}''}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+\addbibresource{bib.bib} %Imports bibliography file
+
+\newcommand\threethings[3]{%
+  \noindent #1\hfill #2\hfill #3\\\ignorespaces
+}
+
+
+\begin{document}
+
+
+
+\vspace*{-2cm}
+
+\threethings{Stephen D. O'Connell}{Research Statement}{March 2025}
+
+\noindent My research asks how information frictions, institutional rules, and economic constraints shape who benefits from social programs, who advances in careers, and how firms and communities absorb and recover from shocks. Three lines of inquiry organize the work. The first concerns information problems in social program design: when governments and aid agencies lack the information needed to identify beneficiaries, choose effective program features, or sustain benefits over time, what are the consequences -- and can better information close these gaps? The second concerns the constraints on firm creation, productivity, and economic recovery -- and whether relaxing those constraints generates broader gains for workers and communities. The third concerns the propagation of representation: when institutions change who enters a field, do the returns to that entry carry upward through organizational hierarchies, or do they dissipate? I study these questions across social protection systems, political careers, labor markets, and firm dynamics in developing and developed countries, using experimental and quasi-experimental methods alongside qualitative research. This work has appeared in the \emph{American Economic Review}, \emph{Journal of Political Economy}, \emph{Review of Economics and Statistics}, \emph{Journal of Development Economics}, and other journals. Below I discuss my work in these three areas, followed by teaching, advising, and professional service.
+
+\noindent \textbf{Information frictions in the design of social programs.}
+
+Social programs in low-income and crisis-affected settings face a common set of information problems: whom to target, what to provide, and how long to provide it. Each involves a tradeoff between the cost of acquiring better information and the welfare losses from acting without it. My work in this area tests whether specific informational improvements -- better targeting data, alternative poverty metrics, employer input into training curricula -- resolve the design problems they are meant to address.
+
+In \citetitle{p9}, we show that basic administrative data held by international aid organizations can identify the poor with only small losses in accuracy relative to resource-intensive survey-based methods. We identify the specific missing proxies to which the performance loss is attributable, providing a direct guide for building such systems. Given the expansion of interoperable administrative data in developing countries, this finding challenges the justification for the expensive targeting methods that have been standard in antipoverty programs over the past several decades.
+
+Whether the \emph{choice} of poverty metric matters for program effectiveness is a separate question. In \citetitle{AO2025}, Altındağ and I test this through a nationwide experiment in Lebanon -- randomizing UNHCR’s annual cash transfer program across alternative targeting metrics. We find that no single poverty metric yields overall effectiveness gains, despite substantially different demographic profiles being eligible across approaches. Put simply, changing the targeting metric reshuffles who is eligible without improving outcomes, and program designers’ choices are simpler than commonly supposed.
+
+The consensus in the cash transfer literature holds that unconditional transfers have positive effects that persist well after programs end. In \citetitle{ALTINDAG2023102942}, we find a sharp departure from this pattern. Studying one of the largest unconditional cash programs in the literature -- \$2,100 per household over one year to refugee families in Lebanon -- we show using a regression discontinuity design that transfers markedly improved consumption, child well-being, and food security during the transfer period, but that these gains dissipated within six months of program exit. The contrast with prior findings -- which come predominantly from non-displaced populations -- suggests that the structural constraints facing refugee households may be qualitatively different from those in the settings where lasting effects have been documented.
+
+Two additional papers with former undergraduate students contribute to this agenda: \citetitle{SO2025} with Jackson Schneider (Emory ‘23) examines gender differences in the adequacy of poverty-targeted food assistance, and \citetitle{op3} with Nick Skelley (Emory ‘22, now Cornell Economics Ph.D.) investigates endogenous household composition responses to cash transfers.
+
+Job training programs face an analogous information problem: governments must choose course offerings without reliable information on future skill demand. Whether employer input can close this gap has been a longstanding hypothesis but a difficult one to test, because programs with and without employer involvement typically differ in context and design. In \citetitle{up1}, Mation and I exploit a policy change in Brazil that introduced employer input into one segment of the national job training program while a parallel segment continued without it -- holding fixed context and other design features. We find that employer input doubles program efficacy as measured by trainee employment and earnings over five years. But the absolute magnitudes remain small -- unlikely to pass a cost-benefit test -- and the differential effectiveness attenuates after approximately four years, limiting the horizon over which benefits can be expected and tempering expectations about public-private collaboration as a remedy for the well-documented difficulties of job training.
+
+
+\noindent \textbf{Constraints on firm creation, productivity, and economic recovery.}
+
+Much of the per capita income gap between rich and poor countries can be traced to differences in aggregate productivity -- a combination of which firms enter and exit, and how productive surviving firms are. What actually constrains these margins in developing economies is an empirical question with different answers depending on the setting. My work in this area spans infrastructure failures in India, the determinants of firm entry across Indian localities, and -- in ongoing work -- whether capital infusions to firms in post-conflict environments generate sustained gains for workers and communities.
+
+In \citetitle{p5}, we estimate the causal effects of electricity shortages on Indian manufacturing firms, guided by a structural model of production under input uncertainty and using variation in water flows through hydroelectric generators for identification. We find that shortages are large and negative for output and revenues, but that productivity is relatively unaffected. Put simply, endemic power outages reduce what firms produce but not how efficiently they produce it -- implying that despite its high incidence, this form of infrastructure failure is unlikely to account for cross-country differences in aggregate productivity.
+
+This paper grew out of several studies on the determinants of firm creation in India. \citetitle{p1} characterized the spatial determinants of entrepreneurship, showing the importance of incumbent market structures and infrastructure for new firm entry. \citetitle{p2} and \citetitle{p3} investigated the link between local industrial structures, political reservations, and female entrepreneurship in India’s manufacturing sector -- the latter connecting to the institutional questions that became central to my work on gender and representation. \citetitle{p4} used a spatial equilibrium model to show that infrastructure and human capital are the primary constraints on the growth of India’s medium-density cities.
+
+Ongoing work extends the question of what constrains firm performance to post-conflict settings, where capital scarcity is acute and economic interventions carry stakes beyond firm productivity alone. In \citetitle{CMOS2026}, we study the effects of capital grants averaging \$16,000 to small and medium enterprises in post-conflict Iraq, exploiting rare employer-employee linked data to trace how grants affect not only business performance but also employment flows and social attitudes across new, continuing, and separated workers. A companion study, \citetitle{CMOS2025}, uses a randomized controlled trial -- with NSF and JPAL/IPA funding -- embedded in an IOM business grant program to recover the spillover effects of these grants on social tensions between communities. With endline data collection complete and both papers in progress, these studies contribute to a growing literature on the relationship between economic recovery and social cohesion in fragile states -- where the question is not only whether capital grants improve firm outcomes, but whether those gains extend to the broader social fabric.
+
+\noindent \textbf{Institutions, experience, and the propagation of representation.}
+
+Policies that expand entry at one level of a hierarchy -- through quotas, electoral rules, or group composition mandates -- are often justified by the expectation that new entrants will eventually rise through the ranks. Whether the returns to entry propagate upward or dissipate is a question that spans political economy, organizational economics, and the economics of discrimination. My work in this area traces how institutional rules shape the accumulation and returns to experience in political careers and team-based work, and whether interventions that change who enters also change who advances.
+
+In \citetitle{KOPS_StrengthInNumbers}, we study this question in the context of team production. Across several hundred six-person student teams at a U.S.\ university, we randomly varied group gender composition and the gender of the group leader, and collected extensive data on participation, influence, and output quality over the course of a semester-long group project. We find that numerical representation alone does not reliably translate into substantive influence -- the conditions under which women’s ideas shape group output depend on the interaction of group composition with leadership assignment. The study provides experimental evidence that the institutional rules governing who works together and who leads determine whose contributions are heard, with implications that extend well beyond the specific setting.
+
+The question of whether entry-level representation propagates upward through organizational hierarchies motivated two of my dissertation chapters on seat quotas for women in Indian local government. In \citetitle{p7}, I exploit the random assignment of quotas across constituencies over time to test the ``pipeline’’ hypothesis. I find that longer cumulative exposure to reservations increases the number of women contesting state and national legislature elections, where quotas are not prescribed. Quotas do create a cohort of experienced female politicians who run for higher office. But these candidates do not win the elections they contest, leaving representation at higher levels unaffected.
+
+\citetitle{p6} identifies a different channel through which entry-level representation propagates. Using the same quota variation in India, I show that female political leadership generates ``role model’’ effects on school enrollment -- and that these effects are equal or larger at higher levels of government than at the local level, extending prior findings that had been documented only in village councils.
+
+In \citetitle{BMOR2024}, we trace the political careers of U.S.\ state legislators to the federal level since the late 1960s through novel data linking. We find that an additional state legislature term increases the probability of ever running for Congress by twice as much for men as for women, and the effect on ever winning a Congressional race is five times larger. The gender gap in political careers thus operates not through differential electoral performance -- female candidates win at equal rates conditional on entry -- but through systematically lower returns to the same experience, even among otherwise equally competitive candidates.
+
+\citetitle{BMO2021} extends this to India, where we exploit close elections for women in state legislatures. Competitively won seats generate larger increases in female candidacy for national elections than quota-mandated ones. The difference is driven in part by an inspiration effect: new women enter federal races directly -- without prior political experience -- after recent exposure to a woman winning a competitive seat in local government. Some of these entrants go on to win, suggesting that the pathway to office matters for its downstream effects on representation.
+
+\citetitle{MO2022} with McCrain broadens the question beyond gender to institutional quality. We show that states with professionalized legislatures generate substantially higher returns to legislative service for career progression to Congress. Because Congressmembers with state legislative experience are more effective legislators, this finding implies that state-level institutional variation contributes to inequality in the quality of Congressional representation across states.
+
+Several of the studies described above have directly informed policy. The targeting model developed in \citeshorttitleonly{p9} has been used to allocate over \$1 billion in humanitarian aid in Lebanon over the past six years, and \citeshorttitleonly{AO2025} led UNHCR to change its targeting approach in 2022.
+
+
+\noindent \textbf{Teaching, Mentoring, and Advising.}
+To date, my teaching has focused on technical and research-focused courses. As the undergraduate level, these include Introductory Econometrics, Causal Inference and Policy Analysis, Honors Research, and Undergraduate Research. At the Masters level, I teach a more advanced course in Causal Inference and Policy Analysis, and at the Doctoral level I have taught Labor Economics. My course evaluations typically score above 8 out of 9. 
+
+Mentorship and advising are an integral component of an academic career. I advise 1-2 Honors Theses annually, and build other mentoring and advising relationships by involving undergraduate and doctoral students in my active research projects. I am currently chair or co-chair for two graduate students at Emory, and serve as an external committee member for a Ph.D. student at Georgia Tech. I have also served as an advisor through other undergraduate research programs at Emory both during the academic year and summers.
+
+
+
+\noindent \textbf{Professional service.}
+I regularly serve as a referee for peer-reviewed journals and as a grant reviewer for NSF, the World Bank, and other organizations. Since 2023 I have co-organized DevSouth, a small conference for grad students and faculty doing research in development economics. I am a member of IZA, Households in Conflict Network, and am an Invited Researcher at the JPAL/IPA Displaced Livelihoods Initiative and Humanitarian Protection Initiative.
+
+
+\clearpage
+
+
+
+
+\printbibliography
+
+
+\end{document} 
+
+
